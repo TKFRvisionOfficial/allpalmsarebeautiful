@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "io.github.tkfrvisionofficial.allpalmsarebeautiful.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "allpalmsarebeautiful.refmap.json",
+  "mixins": [
+    "PalmTree1Mixin",
+    "PalmTree2Mixin",
+    "PalmTree3Mixin",
+    "PalmTree4Mixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
