@@ -165,8 +165,9 @@ dependencies {
 
     implementation fg.deobf('curse.maven:tropicraft-254794:3606854')
     implementation fg.deobf('curse.maven:oh-the-biomes-youll-go-247560:3485079')
-    implementation fg.deobf('curse.maven:the-one-probe-245211:3752096')
-
+    runtimeOnly fg.deobf('curse.maven:the-one-probe-245211:3752096')
+    runtimeOnly fg.deobf('curse.maven:jei-238222:3681294')
+    runtimeOnly fg.deobf('curse.maven:configured-457570:3546348')
 
 
     // For more info...

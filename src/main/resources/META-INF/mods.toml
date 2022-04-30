@@ -31,7 +31,8 @@ credits="Thanks goes to yoooo mommma" #optional
 authors="TKFRvision" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-All cops ahem
+This is a basic mod trying to achieve a more coherent gameplay between BYG and Tropicraft.
+For now it just adds the generation of Coconut on BYG Palm Trees.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.allpalmsarebeautiful]] #optional
